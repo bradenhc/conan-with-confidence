@@ -1,0 +1,9 @@
+[book]
+authors = ["Braden Hitchcock"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Conan with Confidence"
+
+[output.html]
+additional-css = ["style.css"]
